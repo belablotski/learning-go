@@ -1,3 +1,4 @@
+/*
 interface
 interface{}
 
@@ -9,3 +10,12 @@ interface on *value
 
 fmt.Stringer
 error
+*/
+
+package main
+
+import "fmt"
+
+func main() {
+  fmt.Println("...")
+}
